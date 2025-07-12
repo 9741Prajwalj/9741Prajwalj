@@ -24,13 +24,7 @@
 ---
 
 ### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring">
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql">
-  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker">
-</p>
+<p> <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" /> <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-ReactNative-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" /> </p>
 
 ---
 
